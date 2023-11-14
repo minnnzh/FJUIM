@@ -1,0 +1,39 @@
+    .box {
+    background: #fff;
+	border-bottom: 2px solid transparent;
+	padding: 40px 20px;
+    }
+
+    .box:hover {
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    margin-top: -20px;
+    }
+
+    .aboutbox{
+        background: transparent;
+        border-bottom: 2px solid transparent;
+        padding: 40px 20px;
+        }
+    
+
+    .aboutbox:hover {
+        -webkit-transition: all .3s ease-in-out;
+        -moz-transition: all .3s ease-in-out;
+        transition: all .3s ease-in-out;
+        margin-top: -20px;
+        }
+    .newsbox{
+        background: transparent;
+        border-bottom: 2px solid transparent;
+        padding: 40px 20px;
+        }
+        
+    
+    .newsbox:hover {
+        -webkit-transition: all .3s ease-in-out;
+        -moz-transition: all .3s ease-in-out;
+        transition: all .3s ease-in-out;
+        margin-top: -20px;
+        }

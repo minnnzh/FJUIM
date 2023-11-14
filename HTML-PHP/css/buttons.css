@@ -1,0 +1,44 @@
+.edit_btn{
+        width:65px;
+        height:35px;
+        background:#EFB71F;
+        color:black;
+        border:none;
+        border-radius: 2px;
+        cursor: pointer;
+  }
+  .edit_btn:hover{
+        background:#F2990F;
+        color:#fff;
+        transition: 0.4s ease-in-out;
+  }
+
+  .delete_btn{
+    width:65px;
+    height:35px;
+    background:#B1180E;
+    color:white;
+    border:none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.delete_btn:hover{
+    background:darkred;
+    color:#fff;
+    transition: 0.4s ease-in-out;
+}
+
+.download_btn{
+    width:135px;
+    height:35px;
+    background:#B1180E;
+    color:white;
+    border:none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.download:hover{
+    background:darkred;
+    color:#fff;
+    transition: 0.4s ease-in-out;
+}
